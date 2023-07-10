@@ -1,0 +1,2 @@
+#!/bin/bash
+find . minbepth 1 -type d | wc -1
